@@ -2,7 +2,9 @@
 
 はじめまして、岩本一宏と申します。
 
-IT パスポート試験の合格を機に、IT 技術への興味が深まりました。2023 年 6 月からは、[HappinessChain](https://happiness-chain.com/)でオンラインプログラミングスクールに通い、Web 開発企業への転職を目指して積極的に学習を進めています。資格取得の経験から、地道な努力を重ねることでスキルアップできることを実感し、現在までのプログラミング学習時間は 500 時間を超えました。
+IT パスポート試験の合格を機に、IT 技術への興味が深まりました。2023 年 6 月からは、[HappinessChain](https://happiness-chain.com/)でオンラインプログラミングスクールに通い、Web 開発企業への転職を目指して積極的に学習を進めています。
+
+資格取得の経験から、地道な努力を重ねることでスキルアップできることを実感し、現在までのプログラミング学習時間は 500 時間を超えました。学習記録は[こちら](https://github.com/rocky-engineer7/daily_report)に記録しています。
 
 最近では、Ruby on Rails の学習にも力を入れており、Web アプリケーションの開発に必要なスキルを身につけています。この学習経験を活かし、次のステップとして Web 開発の分野で活躍できるよう、日々新たな知識と技術を吸収しています。
 
@@ -20,7 +22,7 @@ IT パスポート試験の合格を機に、IT 技術への興味が深まり�
 
 技術の習得には常に積極的で、以下の技術について学んできました。
 
-ブログには学習内容を記事にして投稿しています。
+[ブログ](https://rocky-engineer7.hatenablog.com/)には学習内容を記事にして投稿しています。
 
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
